@@ -1,16 +1,5 @@
-前情回顾
 
 
-aoeyuv
-
-
-xxxTomlllll
-
-
-2. mysql
-
-   * 安装方法
-   * 基本特征
 
 3. 数据库操作
 
